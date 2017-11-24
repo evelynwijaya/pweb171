@@ -1,6 +1,0 @@
-+10 Tugas Selesai
-+3 untuk setiap selektor yang > 8 baris
-+2 x 4 = +8 untuk setiap selektor ke 7 dst
-+5 untuk penggunaan <div>
-
-total : 26
