@@ -1,0 +1,48 @@
+h1 {
+  font-style: normal;
+  font-family: fantasy;
+  text-align: center;
+  color: #8B0000;
+}
+p {
+  text-align: center;
+  font-family: sans-serif;
+  color: #000;
+}
+body {
+font-family: monospace;
+text-align: center;
+line-height: 30px;
+}
+ h2 {
+   font-style: oblique;
+   color: #696969;
+   font-size: 15;
+text-align: center;
+ }
+ h3 {
+   font-size: 11;
+   font-style: italic;
+   text-align: center;
+   color: #696969;
+ }
+marquee{
+  font-size: 2em;
+}
+a{
+  font-size: 1.2em;
+}
+#latar{
+  width: 1000px;
+  margin: auto;
+}
+#head  {
+margin-bottom: 5px;
+padding: 15px;
+color: #FF7F50;
+font-size: 15px;
+background-color: #FFF8DC;
+border-radius: 15px;
+border: 4px outset #FF7F50;
+
+}
