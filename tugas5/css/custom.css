@@ -1,0 +1,62 @@
+header.masthead {
+    text-align: center;
+    color: #f05;
+    background-image: url(../img/bg4.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.bg-light {
+    background-color: #000!important;
+}
+li {
+    color:  #868e96;
+    font-size: 10px;
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link {
+    font-size: 90%;
+    font-weight: 400;
+    padding: .75em 0;
+    letter-spacing: 1px;
+    color: #000;
+    font-family: Montserrat,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+#portfolio .portfolio-item .portfolio-caption {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 25px;
+    text-align: center;
+    background-color: #000;
+}
+footer {
+    padding: 25px 0;
+    text-align: center;
+    background-image: -webkit-linear-gradient(top, #000 0%, #fff 100%);
+}
+
+.bg-light {
+    background-color: #000!important;
+}
+
+.modal-content {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    pointer-events: auto;
+    background-color: #f9d8c7;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: .3rem;
+    outline: 0;
+}
