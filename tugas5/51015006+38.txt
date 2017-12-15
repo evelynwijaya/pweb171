@@ -1,0 +1,5 @@
++10 Tugas Selesai
++5 Tampilan template
++5 custom template
++2 x 8 = +16 untuk setiap selektor dalam costum style
++2 untuk copyright
